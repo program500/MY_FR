@@ -1,4 +1,7 @@
-#list type data  
+#list type data 
+# 
+# my first git push 
+ 
 fruits_list = ['apple', 'banana', 'cherry', 'berry', 'mango']
 for index, items in enumerate(sorted(fruits_list), start= 1):
     print(f"{index}. {items}")
